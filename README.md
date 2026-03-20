@@ -60,6 +60,23 @@ Final Prediction Report: Download diabetes_predictions_final.csv
 
 GitHub Repository: https://github.com/genowa-ai/Deep-Glycemic-Linearity
 
+## 📈 Model Performance
+Below are the training metrics captured during the DNN optimization phase. The model utilized Early Stopping to ensure the best weights were restored, achieving a final accuracy of **88.26%**.
+
+<p align="center">
+  <img src="./visuals/loss_plot.png" width="45%" />
+  <img src="./visuals/accuracy_plot.png" width="45%" /> 
+</p>
+
+> **Note:** The Cross-Entropy loss (left) shows smooth convergence, while the Accuracy plot (right) demonstrates the model's high stability on the validation set.
+
+---
+
+## 📊 Final Predictions & Dataset
+The final inference was performed on 10,000 unseen patient records. You can access the full report below:
+
+* 📄 **Final Report:** [Download diabetes_predictions_final.csv](./data/diabetes_predictions_final.csv)
+
 ## 🔜 Future Work: Phase 2
 * Integration of **Gemma-2B** for clinical context reasoning.
 * Hybrid "Ensemble" approach: Combining Linear Weights with Transformer-based Attention.
