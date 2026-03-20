@@ -56,8 +56,6 @@ This allows the **Linear Weights** to learn a mathematical progression of risk.
 ## 🔗 Project Links
 Live Interactive Notebook: Kaggle: https://www.kaggle.com/code/eugenewata/deep-glycemic-linearity
 
-Final Prediction Report: Download diabetes_predictions_final.csv
-
 GitHub Repository: https://github.com/genowa-ai/Deep-Glycemic-Linearity
 
 ## 📈 Model Performance
