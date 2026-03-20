@@ -11,7 +11,7 @@ The goal was to build a "Specialist" model capable of identifying diabetes risk 
 ### Key Achievements:
 * **Final Accuracy:** 88.26%
 * **Weighted F1-Score:** 0.88
-* **Data Size:** 70,000 Training samples | 10,000 Test samples
+* **Data Size:** 60,000 Training samples | 10,000 Test samples
 
 ---
 
@@ -52,6 +52,13 @@ This allows the **Linear Weights** to learn a mathematical progression of risk.
 * `diabetes_analysis.ipynb`: The core Kaggle-based training pipeline.
 * `diabetes_predictions_final.csv`: The final 10,000-row prediction output.
 * `requirements.txt`: Python environment dependencies.
+
+## 🔗 Project Links
+Live Interactive Notebook: Kaggle: Deep-Glycemic-Linearity
+
+Final Prediction Report: Download diabetes_predictions_final.csv
+
+GitHub Repository: https://github.com/genowa-ai/Deep-Glycemic-Linearity
 
 ## 🔜 Future Work: Phase 2
 * Integration of **Gemma-2B** for clinical context reasoning.
