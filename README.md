@@ -75,7 +75,7 @@ Below are the training metrics captured during the DNN optimization phase. The m
 ## 📊 Final Predictions & Dataset
 The final inference was performed on 10,000 unseen patient records. You can access the full report below:
 
-* 📄 **Final Report:** [Download diabetes_predictions_final.csv](./data/diabetes_predictions_final.csv)
+* 📄 **Final Report:** [Download](./diabetes_predictions_final.csv)
 
 ## 🔜 Future Work: Phase 2
 * Integration of **Gemma-2B** for clinical context reasoning.
